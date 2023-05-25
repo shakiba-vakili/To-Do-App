@@ -1,7 +1,4 @@
 # To Do App
-[Natours](shakiba-vakili.github.io/Natours-learner/) is a travel website that I coded and learned in the Advanced CSS and Sass course taught by Jonas Schmedtmann. I coded this website with only CSS and Sass and no JavaScript. Natours is a responsive webpage.
+Most people are used to writing down the things they need to do, but they may not necessarily be satisfied with the To Do APP they are looking at and working on. It feels good to be able to have a personalized [To Do APP](https://shakiba-vakili.github.io/To-Do-App/) and have whatever look and feel you like.
 
-<img src="To-Do-App
-.png" alt="To-Do-App
- demo" title="To-Do-App
-"  />
+<img src="To-Do-App.png" alt="To-Do-Appdemo" title="To-Do-App"  />
